@@ -44,7 +44,7 @@ function Navbar() {
               </h1>
 
               <p className="text-[11px] uppercase tracking-[4px] text-gray-400 mt-1">
-                Android • React Developer
+                Software Developer • Android • React Developer
               </p>
             </div>
           </motion.a>

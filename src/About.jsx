@@ -55,16 +55,16 @@ function About() {
               I'm Shethil Sarker Pantha 👋
             </h3>
 
-            <p className="text-gray-300 leading-8 text-lg">
-              I am a passionate <span className="text-blue-400">Android App Developer</span>
-              and <span className="text-blue-400">Frontend Web Developer</span>
-               from Bangladesh. I specialize in building modern Android
+            <p className="text-gray-300 leading-8 text-lg text-justify">
+              I am a passionate <span className="text-blue-400">Software Developer</span> and <span className="text-blue-400">Android App Developer</span>
+              and <span className="text-blue-400">Frontend Web Developer </span>
+                from Bangladesh. I specialize in building modern Android
               applications using Java Native and creating responsive,
               user-friendly web applications with React.js, Tailwind CSS,
               JavaScript, HTML, and CSS.
             </p>
 
-            <p className="text-gray-300 leading-8 text-lg mt-6">
+            <p className="text-gray-300 leading-8 text-lg mt-6 text-justify">
               I enjoy solving real-world problems through technology and always
               strive to write clean, efficient, and maintainable code. I am
               continuously learning new technologies to improve my skills and

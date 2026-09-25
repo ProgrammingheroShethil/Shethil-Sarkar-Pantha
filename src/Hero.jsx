@@ -33,7 +33,7 @@ function Hero() {
             duration: 3,
             repeat: Infinity,
           }}
-          className="mt-30 w-64 h-64 object-cover rounded-full border-4 border-blue-500 mx-auto shadow-2xl shadow-blue-500/50"
+          className="mt-30 w-70 h-70 object-cover object-center rounded-full border-4 border-blue-500 mx-auto shadow-2xl shadow-blue-500/50"
         />
 
  {/* Name */}
@@ -49,6 +49,8 @@ function Hero() {
         {/* Typing Animation */}
         <TypeAnimation
           sequence={[
+            "Software Developer ",
+            2000,
             "Android Developer",
             2000,
             "React Developer",
