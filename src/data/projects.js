@@ -4,7 +4,7 @@ const projects = [
     title: "Personal Portfolio",
     description: "Modern developer portfolio built with React and Tailwind CSS.",
     tech: ["React", "Tailwind", "Framer Motion"],
-    github: "https://github.com/ProgrammingheroShethil",
+    github: "https://github.com/ProgrammingheroShethil/Shethil-Sarkar-Pantha",
     live: "#",
     image: "/project/portfolio.png",
   },
